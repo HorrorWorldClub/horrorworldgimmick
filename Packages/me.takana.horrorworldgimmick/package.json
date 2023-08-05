@@ -1,0 +1,16 @@
+{
+    "name" : "me.takana.horrorworldgimmick",
+    "displayName" : "Horror world gimmick",
+    "version" : "1.0.0",
+    "author": {
+      "name": "taka7n",
+      "email": "takana.vips@gmail.com"
+    },
+    "unity" : "2019.4",
+    "description" : "Gimmicks for horror world",
+    "vpmDependencies" : {
+      "com.vrchat.udonsharp" : "1.1.8"
+    },
+    "url" : "",
+    "license" : "WTFPL"
+}
