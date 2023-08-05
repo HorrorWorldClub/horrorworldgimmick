@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - Change Logを追加
+- Licenseを追加
 
 ## [1.0.1] - 2023-08-05
 
