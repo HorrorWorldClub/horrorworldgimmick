@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [unreleased]
 
+## [1.0.2] - 2023-08-05
+
 ### Added
 
 - Change Logを追加
@@ -25,6 +27,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - First Release
 
-[unreleased]: https://github.com/HorrorWorldClub/horrorworldgimmick/compare/1.0.1...HEAD
+[unreleased]: https://github.com/HorrorWorldClub/horrorworldgimmick/compare/1.0.2...HEAD
+[1.0.2]: https://github.com/HorrorWorldClub/horrorworldgimmick/compare/1.0.1...1.0.2
 [1.0.1]: https://github.com/HorrorWorldClub/horrorworldgimmick/compare/1.0.0...1.0.1
 [1.0.0]: https://github.com/HorrorWorldClub/horrorworldgimmick/releases/tag/1.0.0
