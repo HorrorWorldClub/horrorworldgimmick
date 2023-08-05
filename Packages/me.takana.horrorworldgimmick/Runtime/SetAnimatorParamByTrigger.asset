@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: SetAnimatorParamByTrigger
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: c65811e7eaa7bb6419c431067b6e2e9e,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: f47a7ab11d4209443a1e097737a9e1bf,
     type: 2}
   udonAssembly: 
   assemblyError: 

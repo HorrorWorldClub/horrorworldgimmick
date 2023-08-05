@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: SetAnimatorParamByStayTime
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 65c63f1c82748774ea87956eb6864930,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 473c67feb16bfd147a4c8a6ff1a29369,
     type: 2}
   udonAssembly: 
   assemblyError: 
