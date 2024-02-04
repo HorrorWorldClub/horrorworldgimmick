@@ -6,7 +6,7 @@
   },
   "locked": {
     "me.takana.horrorworldgimmick": {
-      "version": "1.0.2",
+      "version": "1.0.3",
       "dependencies": {
         "com.vrchat.udonsharp": "^1.1.x"
       }
