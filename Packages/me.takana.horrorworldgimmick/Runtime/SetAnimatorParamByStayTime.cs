@@ -11,7 +11,7 @@ namespace Taka7n.HorrorWorldGimmick {
 
         void Update()
         {
-            if (!_isAlreadyRun && Networking.CalculateServerDeltaTime(_startTime, Networking.GetServerTimeInSeconds()) > _triggerTime)
+            if (!_isAlreadyRun && Networking.CalculateServerDeltaTime(Networking.GetServerTimeInSeconds(), _startTime) > _triggerTime)
             {
                 _isAlreadyRun = true;
                 ChangeParam();
